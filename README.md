@@ -159,4 +159,3 @@
         <p><strong>Obrigado por ler!</strong></p>
         <p>&copy; 2025 - A Beleza da Matemática</p>
     </footer>
-</body
